@@ -13,8 +13,10 @@ public class Circle extends Shape  {
 	@Override
 	double calculatePerimeter() {
 		return 2*3.14*radius;  //Math.PI
-		// TODO Auto-generated method stub
+		
 		
 	}
 
 }
+// writing here to check git message
+// to see  the change in git bash
